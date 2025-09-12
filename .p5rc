@@ -1,0 +1,6 @@
+{
+  "name": "poetry-computer",
+  "projects": [
+    "canvas3"
+  ]
+}
