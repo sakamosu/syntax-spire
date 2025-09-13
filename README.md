@@ -1,4 +1,4 @@
-# Syntax Spire - 構文の尖塔
+# Syntax Spire
 
 ![output](https://github.com/user-attachments/assets/22000193-108a-4a35-941c-f08a697a9775)
 
