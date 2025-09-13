@@ -1,6 +1,6 @@
 {
-  "name": "poetry-computer",
+  "name": "syntax-spire",
   "projects": [
-    "canvas3"
+    "canvas"
   ]
 }
